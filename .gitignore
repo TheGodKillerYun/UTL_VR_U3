@@ -1,0 +1,21 @@
+# Carpetas temporales de Unity (Se regeneran solas)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[探]Logs/
+/[Uu]ser[Ss]ettings/
+
+# Archivos generados por Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.apk
+*.user
+*.userprefs
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
